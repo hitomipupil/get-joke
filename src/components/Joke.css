@@ -1,0 +1,58 @@
+.category {
+    font-size: 1.5em;
+    color: #8b0000;
+    margin-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.type {
+    font-size: 1.2em;
+    color: #006400;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.joke, .setup, .delivery {
+    font-size: 1.4em;
+    color: #00008b;
+    margin: 15px 0;
+    text-align: center;
+}
+
+.flags {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.flags button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    background-color: #ffa07a;
+    border: 2px solid #ff6347;
+    border-radius: 5px;
+}
+
+.flags .red {
+    background-color: #ff6347;
+    color: white;
+}
+
+.flags .green {
+    background-color: #32cd32;
+    color: white;
+}
+
+.green {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+    margin-top: 10px;
+}

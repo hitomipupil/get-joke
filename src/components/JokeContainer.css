@@ -1,0 +1,22 @@
+.joke-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fafad2;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    background-color: #32cd32;
+    border-color: #228b22;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.2em;
+}
